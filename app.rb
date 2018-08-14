@@ -5,7 +5,7 @@ class App < Sinatra::Base
   'Welcome to my page!'
 end
   
-  get '/name/' do
+  get '/name' do
     'My name is Jevina'
   end
 end
