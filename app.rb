@@ -8,4 +8,8 @@ end
   get '/name' do
     'My name is Jevina'
   end
+
+get '/home' do
+  "i'm from brooklyn."
+end
 end
